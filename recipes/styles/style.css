@@ -1,0 +1,15 @@
+*{
+    background-color: gray;
+}
+h1,
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+ul,
+ol,
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: white;
+}
